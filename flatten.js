@@ -41,3 +41,5 @@ const flatten = function(arr) {
 //Test case
 assertArraysEqual(flatten([1, 2, [3, 4], 5, [6]]), [1, 2, 3, 4, 5, 6]); 
 assertArraysEqual(flatten([]), []);
+
+module.exports = flatten;
