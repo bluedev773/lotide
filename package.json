@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@bluedev773/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript library of utility functions. Lodash clone.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/bluedev773/lotide.git"
   },
-  "author": "Matthew Litvinov",
+  "author": "Matthew Litvinov <matthew.litvinov@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bluedev773/lotide/issues"
